@@ -3,7 +3,7 @@ package com.wyl.demo.infrastructure;
 /**
  * 配置常量
  *
- * @author yonglin.wang@wyze.cn
+ * @author wyl19940929@163.com
  */
 public final class Constants {
     private Constants() {

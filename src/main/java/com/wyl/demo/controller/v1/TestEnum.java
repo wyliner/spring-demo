@@ -4,7 +4,7 @@ package com.wyl.demo.controller.v1;
 import com.wyl.demo.infrastructure.IEnum;
 
 /**
- * @author yonglin.wang@wyze.cn
+ * @author wyl19940929@163.com
  */
 public enum TestEnum implements IEnum<Integer> {
     ONE("one", 3),

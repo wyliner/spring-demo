@@ -19,7 +19,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import java.util.List;
 
 /**
- * @author yonglin.wang@wyze.cn
+ * @author wyl19940929@163.com
  */
 @EnableWebMvc
 @Configuration

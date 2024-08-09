@@ -3,7 +3,7 @@ package com.wyl.demo.infrastructure.response;
 import org.springframework.http.HttpStatus;
 
 /**
- * @author yonglin.wang@wyze.cn
+ * @author wyl19940929@163.com
  */
 public interface ResponseCode {
 
