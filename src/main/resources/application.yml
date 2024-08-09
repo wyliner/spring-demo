@@ -1,0 +1,16 @@
+ip: 172.16.14.222
+server:
+  port: 80
+spring:
+  application:
+    name: demo
+  data:
+    redis:
+      host: ${ip}
+      database: 0
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://${ip}:3306/demo?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    password: root
+    username: root
+
